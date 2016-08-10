@@ -1,0 +1,16 @@
+
+
+- USING A RETAINED FRAGMENT -
+
+A retained fragment is not bound to any view, it is thought to keep unserializable things such as Threads, Sockets ecc
+
+setRetainedState is used to alterate the lifecycle of the fragment ( no onDestroy and onCreate only the first time )
+
+Insomma, finchè è attivo il fragment manager ne altera il ciclo di vita, quando è rimosso è legato alla view.
+
+It executes an AsyncTask, and I use activityCallback.preExecute() to set the state of the task. This is necessary because otherwise I couldn't
+
+set it.
+
+Reto Meier docet. ( from its stackoveflow response http://stackoverflow.com/questions/456211/activity-restart-on-rotation-android
+                    see http://www.androiddesignpatterns.com/2013/04/retaining-objects-across-config-changes.html )

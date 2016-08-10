@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">WiFindMe</string>
+
+    <string name="action_settings">Impostazioni</string>
+    <string name="toolbarTitle">Gruppi</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="groups">Gruppi</string>
+    <string name="myGroup">Il tuo gruppo</string>
+    <string name="info">Informazioni</string>
+    <string name="close">Chiudi</string>
+    <string name="profile_preferences">Il tuo profilo</string>
+    <string name="profile_name_pref">Nome</string>
+    <string name="profile_name_subtitle">Imposta il tuo nome</string>
+    <string name="profile_image_pref">Immagine</string>
+    <string name="profile_image_subtitle">Imposta la tua immagine</string>
+    <string name="preferences">Preferenze</string>
+    <string name="unknown">Sconosciuto</string>
+    <string name="enable_wifi">Vuoi attivare il WIFI ?</string>
+    <string name="enable_gps">Il GPS è disattivato, vuoi attivarlo?</string>
+    <string name="yes">Si</string>
+    <string name="no">No</string>
+    <string name="wifi_settings">Impostazioni Wifi</string>
+    <string name="joining">Mi connetto,</string>
+    <string name="please_wait">attendi...</string>
+    <string name="please_gps">Attiva la posizione!</string>
+    <string name="cannot_create_group">Non posso creare il gruppo</string>
+    <string name="join_group">Partecipa al gruppo</string>
+    <string name="want_join">Vuoi partecipare al gruppo </string>
+    <string name="connection_problems">Ci sono problemi di connessione!</string>
+    <string name="no_tcp">Non posso connettermi!</string>
+    <string name="refused_connection">Il proprietario ha rifiutato la richiesta!</string>
+    <string name="be_connected">Devi essere connesso ad Internet</string>
+    <string name="has_joined">è entrato!</string>
+    <string name="has_leaved">ha abbandonato</string>
+    <string name="refreshing">Aggiorno...</string>
+    <string name="version">Versione</string>
+    <string name="image_preference">image_preference</string>
+    <string name="name_preference">name_preference</string>
+    <string name="appInfo">. Per un funzionamento corretto si consiglia di essere connesso con i tuoi amici tramite lo stesso access point wifi, o non essere connessi ad un access point ma tenere il Wifi acceso</string>
+    <string name="pick_a_color">Scegli un colore!</string>
+    <string name="please_wifi">Per favore abilita il wifi</string>
+    <string name="notification_title">WiFindMe</string>
+    <string name="notification_content">Connessione iniziata!</string>
+    <string name="connection_has_been_closed">La connessione è stata chiusa nel frattempo</string>
+
+</resources>

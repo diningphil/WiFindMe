@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    android:key="preference_screen"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:key="profile_category"
+        android:title="@string/profile_preferences">
+
+        <EditTextPreference
+            android:key="@string/name_preference"
+            android:title="@string/profile_name_pref"
+            android:summary="@string/profile_name_subtitle"
+            android:dialogTitle="@string/profile_name_pref"
+            android:defaultValue="@string/unknown"/> <!-- to change programmatically -->
+
+        <Preference
+            android:key="@string/image_preference"
+            android:title="@string/profile_image_pref"
+            android:summary="@string/profile_image_subtitle"
+            android:defaultValue="@drawable/light_green_nine"
+            />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!--
+    <item android:id="@+id/searchGroup"
+        android:icon="@drawable/ic_group_search"
+        app:showAsAction="ifRoom"
+        android:title="Search Group"
+        android:titleCondensed="Search" />
+    -->
+
+    <item android:id="@+id/refreshList"
+        android:icon="@drawable/ic_cached"
+        app:showAsAction="ifRoom"
+        android:title="Aggiorna lista"
+        android:titleCondensed="Aggiorna" />
+
+    <item android:id="@+id/addGroup"
+        android:icon="@drawable/ic_group_add"
+        app:showAsAction="ifRoom"
+        android:title="Crea Gruppo"
+        android:titleCondensed="Crea" />
+</menu>

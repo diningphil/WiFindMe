@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/diningphil/Desktop/WiFindMe/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/diningphil/Desktop/WiFindMe/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-b384c5e007e7fdbaee9814d1f98353ce160ea648.jar" />
+    </item>
+    <item
+        jar="/Users/diningphil/Desktop/WiFindMe/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3abb4b88f5a8a0584a9b01d3170d7165f12f8588">
+        <dex dex="/Users/diningphil/Desktop/WiFindMe/app/build/intermediates/pre-dexed/debug/classes-ab09784e6fffa660ab819fe421384b859a877c0a.jar" />
+    </item>
+    <item
+        jar="/Users/diningphil/Desktop/WiFindMe/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="e1fa5e1123997a55e3ed65b44892993ff4b58cfe">
+        <dex dex="/Users/diningphil/Desktop/WiFindMe/app/build/intermediates/pre-dexed/debug/classes-922fd15c572838baec673bb2e93610fe43032070.jar" />
+    </item>
+    <item
+        jar="/Users/diningphil/Desktop/WiFindMe/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/diningphil/Desktop/WiFindMe/app/build/intermediates/pre-dexed/debug/classes-716e36523bba80eae7639a2c41e1dc1baeb4d880.jar" />
+    </item>
+    <item
+        jar="/Users/diningphil/Desktop/WiFindMe/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/diningphil/Desktop/WiFindMe/app/build/intermediates/pre-dexed/debug/classes-2e449ef1845f4d3110dbd4cac65eb6d9959a6af0.jar" />
+    </item>
+    <item
+        jar="/Users/diningphil/Desktop/WiFindMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="cb6fab7a71fa9ec1f483d44c5fca65ab469d8aca">
+        <dex dex="/Users/diningphil/Desktop/WiFindMe/app/build/intermediates/pre-dexed/debug/classes-56ae63841ccfe84da2567865bf6ed0d262bb3003.jar" />
+    </item>
+    <item
+        jar="/Users/diningphil/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/diningphil/Desktop/WiFindMe/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-f5acfdd2f249a88b1ff65ae8a11367c63d1c5bd4.jar" />
+    </item>
+    <item
+        jar="/Users/diningphil/Desktop/WiFindMe/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.8.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c0c912d58c9468b1f9d9769c8975afdf2c85d681">
+        <dex dex="/Users/diningphil/Desktop/WiFindMe/app/build/intermediates/pre-dexed/debug/classes-3eea7a00bcdada8c5bb021f947df5760547ed0b0.jar" />
+    </item>
+
+</items>
